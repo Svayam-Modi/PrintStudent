@@ -22,7 +22,7 @@ public class StudentArray {
         s1.setAge(18);
         
         Student s2 = new Student();
-        s2.setName("Jaysheel");
+        s2.setName("Kartik");
         s2.setAge(18);
         
         Student s3 = new Student();
