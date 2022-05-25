@@ -42,6 +42,7 @@ public class StudentArray {
         for(int i =0; i< 3; i++)
         {
             System.out.println(list[i].getName() +" "+ list[i].getAge());
+            System.out.println("Hi there");
         }        
     }
     
